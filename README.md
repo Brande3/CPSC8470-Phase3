@@ -1,4 +1,7 @@
-﻿The requirements to run the program on the palmetto cluster are
+This Project primarily involved using source code from another research groups project that was then interpreted and modified in an attempt to find improvements.
+The original project was called CaDRec.
+
+The requirements to run the program on the palmetto cluster are
 
 module load anaconda3/2023.09-0
 module load ngc/pytorch/23.06
@@ -51,3 +54,4 @@ ___
    	  pages={405–-415},
 	  year={2024}
 	}
+
